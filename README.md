@@ -32,7 +32,7 @@ Market Basket Analysis (MBA) is a data mining technique used to uncover associat
 ```bash
 git clone https://github.com/your-username/market-basket-fp-growth.git
 cd market-basket-fp-growth
-
+```
 ### 2. Install Dependencies
 pip install pandas mlxtend
 
