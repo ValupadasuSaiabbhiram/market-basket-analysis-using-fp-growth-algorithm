@@ -41,4 +41,6 @@ refer this link to download the csv file https://www.kaggle.com/datasets/aslanah
 
 ## How to Run
 ### Run this analysis script:
-python market_basket_fp_growth.py
+```python3
+python3 market_basket_fp_growth.py
+```
